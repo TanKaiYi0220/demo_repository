@@ -1,4 +1,7 @@
 print("\"git init\" used to create a git repository")
 print("There are local area & staging area")
 print("Local area is the area that located at the git init location")
+print("Staging area is the area that tracked")
 print("\"git status\" used to check status of this git repository")
+print("\"git add <filename>\" used to add file to the staging area")
+print("\"git rm --cached <filename>\" used to remove file from the staging area")
