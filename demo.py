@@ -12,3 +12,5 @@ print("We may do different action to same file in different branches")
 print("If we want go back to the original file, then switched back to the branch")
 
 print("\"git pull\" used to pull the code from the remote repository")
+
+print("THE END")
