@@ -6,3 +6,5 @@ print("\"git status\" used to check status of this git repository")
 print("\"git add <filename>\" used to add file to the staging area")
 print("\"git rm --cached <filename>\" used to remove file from the staging area")
 print("\"git branch\" used to show the branches those we have")
+
+print("\"git push -u origin <branchname>\" used to push the branch to the remote repository on the git hub")
